@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Image-classification</string>
+    <string name="img">image</string>
+    <string name="textview1">Predictions</string>
+    <string name="button1">Select</string>
+    <string name="button2">-Predict-</string>
+    <string name="textview2"><![CDATA[ML & Android project]]></string>
+
+
+</resources>
